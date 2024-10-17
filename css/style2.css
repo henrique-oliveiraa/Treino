@@ -1,0 +1,78 @@
+body{
+    background-color: black;
+}
+
+.Treinos, .Treinoos, .Treinooos{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    
+}
+
+.Treinoos{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-left: 400px;
+    margin-top: -284px;
+}
+
+.Treinooos{
+    
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-left: 850px;
+    margin-top: -284px;
+}
+
+.segundo{
+    color: rgb(0, 0, 0);
+    margin-left: 400px;
+    margin-top: -3px;
+}
+
+.primeiro{
+    color: rgb(0, 0, 0);
+ 
+    
+}
+
+.oi{
+    color: rgb(0, 0, 0);
+    justify-content: center;
+    display: flex;
+}
+
+
+.Treinoos{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-left: 400px;
+    margin-top: -284px;
+}
+
+.terceiro{
+    color: rgb(0, 0, 0);
+    margin-left: 850px;
+}
+
+
+.Treinoooos{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-left: 1300px;
+    margin-top: -254px;
+}
+
+.Descanso{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-left: 1310px;
+    margin-top: 33px;
+
+}
+
+
+body{
+    background-image: url(./academia.jpg);
+    background-size: cover;
+
+}

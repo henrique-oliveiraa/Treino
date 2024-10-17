@@ -1,0 +1,25 @@
+.treinos{
+    color:white;
+  position: absolute;
+  font-size: 40px;
+  left: 250px;
+  top: 135px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body{
+    background-image: url(./feminino.jpg);
+    background-size: cover;
+
+}
+
+.btn, .btn-secondary{
+    margin-left: 400px;
+    margin-top: 200px;
+
+}
+
+body{
+    background-color: black;
+}
